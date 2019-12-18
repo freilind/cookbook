@@ -1,5 +1,7 @@
 # Cookbook
 
+This project is the practice of the course http://udemy.com/course/the-complete-guide-to-angular-2. thanks to Maximilian Schwarzmüller
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
 ## Development server
